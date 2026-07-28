@@ -47,18 +47,15 @@ behavior, timeout false-failures).
 ### In Claude Code
 
 ```
-/plugin marketplace add sara-perjalian/sp-plugins
+/plugin marketplace add SaraSPD/sp-plugins
 /plugin install wave-bookkeeper@sp-plugins
 ```
-
-(Replace `sara-perjalian/sp-plugins` with wherever this repo ends up living on GitHub.)
 
 ### In Cowork
 
 Open **Customize** in the sidebar, then **Plugins**, then **Add marketplace**, and paste in
-this repo's URL (`https://github.com/sara-perjalian/sp-plugins` or the `owner/repo` shorthand).
+this repo's URL (`https://github.com/SaraSPD/sp-plugins` or the `owner/repo` shorthand).
 Once added, install `wave-bookkeeper` from the list.
-
 
 ## Repo layout
 
