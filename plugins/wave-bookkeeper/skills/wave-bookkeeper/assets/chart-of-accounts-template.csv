@@ -1,0 +1,12 @@
+Account Name,Type,Notes
+Business Checking,ASSET,anchor account example -- rename/add rows to match this business's actual chart of accounts in Wave
+Business Credit Card,LIABILITY,
+Uncategorized Expense,EXPENSE,holding category for transfer placeholders and unresolved rows
+Office Expense,EXPENSE,
+Supplies,EXPENSE,
+Travel & Transportation,EXPENSE,
+Meals and Entertainment,EXPENSE,
+Insurance,EXPENSE,
+"Technology, Software, Subscriptions",EXPENSE,
+Bank Service Charges,EXPENSE,
+Sales,INCOME,
